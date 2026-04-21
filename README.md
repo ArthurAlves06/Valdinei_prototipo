@@ -1,6 +1,6 @@
 # Valdinei_prototipo
 
-Protótipo de site imobiliária com página inicial em HTML e CSS.
+Protótipo de site imobiliário com página inicial em HTML e CSS.
 
 ## Como visualizar
 
